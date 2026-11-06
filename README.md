@@ -28,3 +28,6 @@ Data files: CC BY 4.0. Code: MIT. See `LICENSE`.
 
 ## Citation
 Please cite the article and this repository (see `CITATION.cff`).
+
+## DOI
+https://doi.org/10.5281/zenodo.23994071
